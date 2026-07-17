@@ -10,7 +10,7 @@ This HR Analysis Dashboard is an interactive Power BI project designed to analyz
 
 ## Dashboard - Page 1
 
-![Dashboard 1](Images/Dashboard_Page1.png)
+
 
 ## Dashboard - Page 2
 
