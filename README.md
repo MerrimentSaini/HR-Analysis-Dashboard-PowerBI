@@ -1,5 +1,19 @@
 # 📊 HR Analysis Dashboard | Power BI
 
+<p align="center">
+  <a href="https://github.com/MerrimentSaini">
+    <img src="https://img.shields.io/badge/GitHub-MerrimentSaini-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/avi-saini-15956b214/">
+    <img src="https://img.shields.io/badge/LinkedIn-Avi Saini-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
+![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+
 <===== 📌 Project Overview =====>
 
 This HR Analysis Dashboard is an interactive Power BI project designed to analyze workforce performance, employee demographics, salaries, and attrition trends. The dashboard provides actionable insights that help HR teams understand employee behavior and identify the major factors contributing to attrition.
@@ -167,4 +181,4 @@ LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
 
 <===== ⭐ Support =====>
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+If you found this project useful, consider giving it a ⭐ on GitHub. Thanks..!
